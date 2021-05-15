@@ -1,2 +1,3 @@
-#
-Stock Watcher API
+# Stock Watcher API
+
+...
